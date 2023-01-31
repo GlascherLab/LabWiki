@@ -1,0 +1,5 @@
+This is the script of  an online decision making task that has written with oTree software.
+This file consists of 5 apps, one setting.py, and one query_join.py code. 
+5 apps including: 1. consent 2. intro_hide_and_seek_2options (which is the main game) 3. introduction 4. question 5. wait 
+the setting.py is for running the whole game, setting up the name of the game, room and other important parameters and its necessary for running the game. 
+query_join.py is an example for getting query from Heroku server using python.
